@@ -14,13 +14,13 @@ NLP Explorer is an interactive application that brings together seven core Natur
 
 | Tab | Task | Models Used |
 |-----|------|-------------|
-| 🔤 **Tokenization** | Text tokenization comparison | NLTK, BERT, T5, GPT-2 |
-| 💬 **Sentiment** | Sentiment analysis | DistilBERT, RoBERTa |
-| 🔁 **Similarity** | Sentence similarity | all-MiniLM-L6-v2, paraphrase-MiniLM-L3-v2 |
-| 🏷️ **Zero-Shot** | Text classification | XLM-RoBERTa, BART-large-MNLI |
-| 🔍 **NER** | Named entity recognition | BERT large CoNLL03 |
-| ❓ **Q&A** | Question answering | RoBERTa SQuAD2 |
-| 🌍 **Lang Detection** | Language detection | XLM-RoBERTa |
+|  **Tokenization** | Text tokenization comparison | NLTK, BERT, T5, GPT-2 |
+|  **Sentiment** | Sentiment analysis | DistilBERT, RoBERTa |
+|  **Similarity** | Sentence similarity | all-MiniLM-L6-v2, paraphrase-MiniLM-L3-v2 |
+|  **Zero-Shot** | Text classification | XLM-RoBERTa, BART-large-MNLI |
+|  **NER** | Named entity recognition | BERT large CoNLL03 |
+|  **Q&A** | Question answering | RoBERTa SQuAD2 |
+|  **Lang Detection** | Language detection | XLM-RoBERTa |
 
 ---
 
